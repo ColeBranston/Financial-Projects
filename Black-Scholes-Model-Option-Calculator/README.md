@@ -1,1 +1,1 @@
-# Black-Scholes-Model-Option-Calculator
+# Black Scholes Model Option Calculator
